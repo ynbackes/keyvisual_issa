@@ -1,9 +1,4 @@
 <header class="relative overflow-hidden pt-10 pb-12 px-10 text-center text-white"
-        style="background-image: url('https://raw.githubusercontent.com/ynbackes/issa2026_logo/main/issa_bg.jpg');
-               background-size: cover;
-               background-position: center;">
-
-    <!-- 어두운 오버레이 -->
-    <div class="absolute inset-0 bg-black opacity-40"></div>
-
-    <div class="relative z-10">
+    style="background-image: url('https://raw.githubusercontent.com/ynbackes/keyvisual_issa/main/pavilion_bg.jpg');
+           background-size: cover;
+           background-position: center;">
